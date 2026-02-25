@@ -1,0 +1,8 @@
+
+
+
+
+	Proiectul are ca scop automatizarea procesului de triaj pe baza unor criterii medicale predefinite și prioritizarea cazurilor în funcție de gravitate. Sistemul permite gestionarea eficientă a resurselor disponibile (medici, asistente, săli, echipamente) și alocarea lor dinamică în funcție de încărcare.
+   
+
+	Aplicația contribuie la reducerea timpilor de așteptare, la creșterea acurateței deciziilor și la îmbunătățirea calității serviciilor medicale. Include funcționalități precum înregistrarea pacienților, evaluarea simptomelor, stabilirea priorității și monitorizarea statusului în timp real. Soluția este gândită pentru a sprijini personalul medical în luarea deciziilor rapide și eficiente în situații critice.
